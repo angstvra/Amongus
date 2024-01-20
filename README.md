@@ -20,4 +20,14 @@
 
 ## How to run
 
+```
+python -m venv VirtualEnvironmentName
+cd VirtualEnvironmentName
+Scripts\activate
+git clone https://github.com/angstvra/Amongus.git
+cd Amongus
+pip install -r requirements.txt
+python app.py
+```
+
 <p><i>Lead Programmer: Jer</i></p>
