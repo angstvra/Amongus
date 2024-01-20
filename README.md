@@ -3,9 +3,6 @@
 
 ## Key Features
 <ul>
-  Dashboard System: The main feature of the application will be a user-friendly dashboard that presents essential weather data in a clear and concise manner, catering to the needs of everyday people, local government units, and meteorologists.
-Simplified Data Presentation: Everyday users will benefit from a simplified presentation of weather data, allowing them to quickly access essential information such as current temperature, precipitation forecasts, and weather alerts.
-Detailed Metrics: The application will provide more detailed and comprehensive weather metrics for local government units and meteorologists, enabling them to access in-depth data for analysis and decision-making.
   <li>Dashboard System: The main feature of the application will be a user-friendly dashboard that presents essential weather data in a clear and concise manner, catering to the needs of everyday people, local government units, and meteorologists.</li>
   <li>Simplified Data Presentation: Everyday users will benefit from a simplified presentation of weather data, allowing them to quickly access essential information such as current temperature, precipitation forecasts, and weather alerts.</li>
   <li>Detailed Metrics: The application will provide more detailed and comprehensive weather metrics for local government units and meteorologists, enabling them to access in-depth data for analysis and decision-making.</li>
@@ -20,5 +17,7 @@ Detailed Metrics: The application will provide more detailed and comprehensive w
 
 ## Snapshot
 ![1](https://github.com/angstvra/Amongus/assets/93997417/a091be91-90dd-400b-98e9-50d5b26a9da4)
+
+## How to run
 
 <p><i>Lead Programmer: Jer</i></p>
