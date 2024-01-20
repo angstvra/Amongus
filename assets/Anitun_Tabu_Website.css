@@ -1,0 +1,265 @@
+*{box-sizing:border-box;margin:0%;font-family:lato;background-color: transparent}
+.div_header {
+	height:270px;
+	width:100%;
+	background-image:linear-gradient(to bottom right, #3b4a1c, #555555);
+	position:fixed;
+	z-index:1;
+	padding-left:20px;
+}
+	.div_header h1 {color:#ffff80;font-size:85px;}
+	.div_header h3 {color:#ffff80;font-size:40px;}
+	.div_header img {height:125px;opacity:0.8;position:absolute;top:20px;}
+
+	
+ 
+.div_navigation {
+	height:100px;
+	width:100%;
+	background-color:#111111;
+	position:fixed;
+	top:165px;
+	z-index:1;
+	font-size: 38px;
+	color:white;
+	text-align:center;
+}
+
+.div_footer {
+	height:60px;
+	width:100%;
+	background-color:#111111;
+	position:fixed;
+	bottom:0%;
+	z-index:1;
+	text-align:center;
+	padding-top:5px;
+}
+	#status {font-size:40px;color:green;}
+
+
+.div_maincontent {
+	height:auto;
+	width:100%;
+	background-color:rgb(1,14,22);
+	position:absolute;
+	top:266px;
+	z-index:-2;
+	text-align:center;
+	color:white;
+	opacity: .9;
+	
+}
+
+
+
+
+.div_maincontent p {
+	font-size:20px;
+	letter-spacing:5px;
+	color:#999999;
+}
+#about span {
+    font-size: 50px;
+    letter-spacing: 5px;
+    color: #ffff80;
+}
+#about Img {
+    border-radius: 50%;
+    padding: 20px;
+    object-fit: cover;
+}
+
+.about-team div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-team>div>div{
+    display: block;
+}
+
+
+	.home_title_1 {
+		position:relative;
+		top:-300px;
+		background-color:black;
+		width:100%;
+		height:auto;
+		color:white;
+		padding-top:10px;
+		padding-right:10px;
+		text-align:right;
+		z-index:1;
+		opacity:.8;
+	}
+		.home_title_1 p {
+			font-size:50px;
+			letter-spacing:5px;
+			color:#999999;
+		}
+		.home_title_1 span {
+			font-size:55px;
+			letter-spacing:5px;
+		}
+	.home_title_2 {
+		position:relative;
+		top:-140px;
+		background-image:linear-gradient(to bottom right, #111111, #132226);
+		width:100%;
+		height:auto;
+		color:white;
+		padding-top:10px;
+		padding-left:10px;
+		text-align:left;
+		opacity:.8;
+	}
+		.home_title_2 span {
+			font-size:55px;
+			letter-spacing:5px;
+		}
+	.overview_section{
+		color:#BBBBBB;
+		position:relative;
+		top:-140px;
+		font-size:32px;
+		text-align:justify;
+	}
+		.overview_section p{
+			width:60%;
+			padding:15px;
+		}
+		.overview_section img {
+			position:relative;
+			top:-650px;
+			left:50%;
+		}
+		.overview_section .whole {
+			width:100%;
+			position:relative;
+			top:-650px;
+		}
+	.home_title_3 {
+		position:relative;
+		top:-790px;
+		background-image:linear-gradient(to bottom right, #111111, #132226);
+		width:100%;
+		height:auto;
+		color:white;
+		padding-top:10px;
+		padding-left:10px;
+		text-align:left;
+		opacity:.8;
+	}
+		.home_title_3 span {
+			font-size:55px;
+			letter-spacing:5px;
+		}
+    .collaborators_section {
+    	padding-top:20px;
+    	position:relative;
+		top:-790px;
+		background-color:rgb(1,14,22);
+	}
+		.collaborators_section p{
+			font-size:35px;
+			color:white;
+		}
+
+	.title_text {
+		margin-top:20px;
+		background-color:black;
+		width:100%;
+		height:auto;
+		font-size:70px;
+		letter-spacing:5px;
+		color:#999999;
+		padding-top:10px;
+		padding-right:10px;
+		text-align:right;
+		z-index:1;
+		opacity:.8;
+	}
+
+	.station_location_dropdown {
+		background-color:#111111;
+		color:black;
+	}
+	.station_title {
+		margin-top:20px;
+		background-color:black;
+		width:100%;
+		height:auto;
+		position:absolute;
+		color:white;
+		padding-top:10px;
+		padding-right:10px;
+		text-align:right;
+		z-index:1;
+		opacity:.8;
+		
+	}
+		.station_title p {
+			font-size:40px;
+			letter-spacing:5px;
+			color:#999999;
+		}
+		.station_title span {
+			font-size:45px;
+			letter-spacing:5px;
+		}
+
+	.station_img img {
+		position:relative;
+		top:0px;		
+		width:100%;	
+	}
+
+	.station_location {
+		width:100%;
+		height:auto;
+		color:white;
+		position:relative;
+		text-align:center;
+		top:115px;
+		padding:15px;
+		font-size:48px;	
+		letter-spacing:11px;	
+		margin-bottom:30px;
+	}
+
+	#graph_loc {
+		width:100%;
+		height:100px;
+		color:black;
+		position:relative;
+		text-align:left;
+		top:125px;
+		padding:15px;
+		font-size:35px;	
+		letter-spacing:11px;
+		margin-bottom:20px;
+		opacity:.7;
+		
+	}
+
+	.div_maincontent_stations {
+		height:5000px;
+		width:100%;
+		background-color:rgb(1,14,22);
+		position:absolute;
+		top:266px;
+		z-index:-2;
+		text-align:center;
+	}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+ 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
