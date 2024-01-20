@@ -21,4 +21,4 @@ Detailed Metrics: The application will provide more detailed and comprehensive w
 ## Snapshot
 ![1](https://github.com/angstvra/Amongus/assets/93997417/a091be91-90dd-400b-98e9-50d5b26a9da4)
 
-<p>Lead Programmer Jer</p>
+<p><i></i>Lead Programmer Jer</i></p>
